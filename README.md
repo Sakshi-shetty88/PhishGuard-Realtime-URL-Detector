@@ -70,5 +70,12 @@ PhishGuard uses multiple detection layers to analyze and score URLs:
 
 
 
+🧪 Future Improvements
+🔍 Integrate VirusTotal or WHOIS API for deeper URL reputation
 
+🌐 Add browser extension for real-time protection
+
+📥 Export threat reports as PDF
+
+📡 WebSocket-based live feed for enterprise mode
 
